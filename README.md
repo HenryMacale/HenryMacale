@@ -14,3 +14,6 @@ Skills
 Current Project
 - Currently developing our Capstone Project
 - Languages in use: Laravel, Flutter, And Dart
+
+Contact me at:
+- Email: macalehenrycarlos27@gmail.com
